@@ -4,3 +4,4 @@
 - Cheese Cake
 - Tiramisu
 - apple tarto
+- Strawberry Tart
