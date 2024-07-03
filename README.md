@@ -19,16 +19,17 @@ To complete the assignment, please do the following:
 
 # List of interesting number
 
-1
-30
-1019
-6
-29
-21
-57
-48000
-17
-65842375
-762
-0
-137
+- 1
+- 30
+- 1019
+- 6
+- 29
+- 21
+- 57
+- 48000
+- 17
+- 65842375
+- 762
+- 0
+- 137
+- 314
