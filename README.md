@@ -16,11 +16,8 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-What is your favorite hiragana? Please feel free to write one character!
-- あ
+Please tell me your favorite prefecture!
 
-# List of Hiragana
-- い
-- ぬ
-- ん
+# List of prefecture
+
 
